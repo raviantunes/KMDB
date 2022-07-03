@@ -1,0 +1,5 @@
+makefile
+db.sqlite3
+venv
+.env
+__pycache__
