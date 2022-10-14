@@ -1,7 +1,7 @@
 # KMDB
 Back End de aplicação voltada a interação entre consumidores do nicho cinematográfico
 
-##Para este projeto, eu:
+Para este projeto, eu:
 -Configurei a estrutura do projeto, incluindo .gitignore, venv, requirements.txt;
 -Customizei usuário com base no AbstractUser;
 -Registrei models no Django Admin;
